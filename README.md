@@ -1,6 +1,6 @@
 # WP-Rig
 
-Testing the WP Rig - The Progressive WordPress Theme Rig.
+**Testing the WP Rig - *The Progressive WordPress Theme Rig***
 
 WP Rig is a modern WordPress starter theme and build process bundled into one convenient package. It helps you create beautiful, lightning-fast WordPress themes with exciting user experiences that meet the latest web standards.
 
