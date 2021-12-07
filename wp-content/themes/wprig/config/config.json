@@ -1,0 +1,15 @@
+{
+  "theme": {
+    "slug": "new-rig",
+    "name": "New Rig",
+    "author": "Martin Nestorov"
+  },
+  "dev": {
+    "browserSync": {
+      "live": true,
+      "proxyURL": "wprig.local",
+      "bypassPort": "8181",
+      "https": false
+    }
+  }
+}
